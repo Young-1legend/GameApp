@@ -1,0 +1,11 @@
+C:\Users\DANQUAH JEFFREY\source\repos\GameStoreApp\bin\Debug\GameStoreApp.exe.config
+C:\Users\DANQUAH JEFFREY\source\repos\GameStoreApp\bin\Debug\GameStoreApp.exe
+C:\Users\DANQUAH JEFFREY\source\repos\GameStoreApp\bin\Debug\GameStoreApp.pdb
+C:\Users\DANQUAH JEFFREY\source\repos\GameStoreApp\obj\Debug\GameStoreApp.csproj.AssemblyReference.cache
+C:\Users\DANQUAH JEFFREY\source\repos\GameStoreApp\obj\Debug\GameStoreApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\DANQUAH JEFFREY\source\repos\GameStoreApp\obj\Debug\GameStoreApp.Form1.resources
+C:\Users\DANQUAH JEFFREY\source\repos\GameStoreApp\obj\Debug\GameStoreApp.Properties.Resources.resources
+C:\Users\DANQUAH JEFFREY\source\repos\GameStoreApp\obj\Debug\GameStoreApp.csproj.GenerateResource.cache
+C:\Users\DANQUAH JEFFREY\source\repos\GameStoreApp\obj\Debug\GameStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\DANQUAH JEFFREY\source\repos\GameStoreApp\obj\Debug\GameStoreApp.exe
+C:\Users\DANQUAH JEFFREY\source\repos\GameStoreApp\obj\Debug\GameStoreApp.pdb
